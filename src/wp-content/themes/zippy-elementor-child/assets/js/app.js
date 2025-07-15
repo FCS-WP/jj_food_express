@@ -11,5 +11,5 @@ let Main = {
   }
 };
 
-
+import './custom.js';
 // Main.init();
